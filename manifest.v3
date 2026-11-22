@@ -12,17 +12,18 @@
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="MultiplyPublicService">6.0</value>
     <value name="SubstractPublicSvcPackage">3.0</value>
+    <value name="AddPublicService">6.0</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">4</value>
+  <value name="build">5</value>
   <null name="description"/>
   <value name="created_date">22-11-2026 12:44:42 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-11-22T12:46:27.855033257Z</value>
+  <value name="lastUpdated">2026-11-22T12:46:49.441544088Z</value>
   <value name="creator">Arti Khare</value>
 </Values>
